@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arham Rumi</h1>
-<h3 align="center">A passionate Node.js Developer, Python Developer and Data Scientist</h3>
+<h3 align="center">Backend Developer | Node.js | Express.js | MongoDB | Postgres | Python</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning**
+- 🌱 I love to improve myself in every possible aspect
 
 - 👨‍💻 All of my projects are available at [https://arham-rumi.netlify.app/](https://arham-rumi.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@arhamrumi](https://medium.com/@arhamrumi)
 
-- 💬 Ask me about **Python, JavaScript, Node.js, MongoDb, Machine Learning**
+- 💬 Ask me about **JavaScript, Node.js, MongoDb, Mongoose, Postgres, Python, AI**
 
 - 📫 How to reach me **arhamrumi007@gmail.com**
 
