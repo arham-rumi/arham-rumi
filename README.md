@@ -3,7 +3,7 @@
 
 - 🌱 I love to improve myself in every possible aspect
 
-- 👨‍💻 All of my projects are available at [https://arham-rumi.netlify.app/](https://arham-rumi.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://arhamrumi.com](https://arhamrumi.com)
 
 - 📝 I regularly write articles on [https://medium.com/@arhamrumi](https://medium.com/@arhamrumi)
 
